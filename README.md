@@ -4,7 +4,7 @@ The application aims to provide a solution for creating an activity with interac
 
 The program follows the following functionality:
 
--The user can input text into the Text box.
+- The user can input text into the Text box.
 - Pressing the Create button will save the entered text as a text file in MkSDcard.
 - Subsequent changes to the text can be saved by pressing the Save button, which updates the existing file with the latest content.
 - Pressing the Open button allows the user to retrieve and display the contents from the previously saved files in the Text box.
